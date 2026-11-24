@@ -3,11 +3,10 @@
 
 Standard library only, no network, deterministic: the same bytes are
 written on every run. The image was drawn by generate_image.py in this
-repository (PIL, DejaVu fonts) from news verified on 24 November 2026.
+repository (PIL, Noto Serif/Sans) from news verified on 24 November 2026.
 """
 import hashlib
 import os
-import shutil
 import sys
 from pathlib import Path
 
